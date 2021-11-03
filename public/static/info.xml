@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Regelmatig viervlak</NAAM>
+    <GRIEKSE_NAAM>Tetraëder</GRIEKSE_NAAM>
+    <OVER>Een tetraëder is een veelvlak met vier vlakken. Een tetraëder is een platonisch lichaam. In het Nederlands heet dit figuur een viervlak. Dit komt omdat dit figuur vier gelijkzijdige vlakken heeft. Deze vlakken zijn vier gelijkzijdige driehoeken. Het is dus in principe een piramide met een driehoekig grondvlak. Omdat de driehoeken in dit figuur gelijkzijdig zijn heet dit een regelmatig viervlak.</OVER>
+    <PERSOON>De tetraëder is bedacht door Plato. Plato heeft alle regelmatige veelvlakken gevonden. Daarom noemen we deze ook wel eens platonische lichamen.</PERSOON>
+    <INFO_OVER_FIGUUR>Dit figuur heeft vier hoekpunten, zes ribben en vier zijvlakken. Een regelmatig viervlak is een van de vijf verschillende regelmatige veelvlakken. </INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>De kubus</NAAM>
+    <GRIEKSE_NAAM>Hexaëder</GRIEKSE_NAAM>
+    <OVER>Een hexaëder is misschien wel een van de meest bekende ruimtelijke figuren. In Nederland noemen we dit figuur een kubus. De hexaëder is een van de vijf regelmatige veelvlakken. Het is een zesvlak, waarvan de zijvlakken vierkanten zijn. De kubus kun je in het dagelijks leven ook tegenkomen. Je ziet het bijvoorbeeld in een dobbelsteen. Het voordeel om bij de dobbelstenen een kubus te gebruiken is het feit dat bij een kubus je op elk vlak even veel kans heb dat hij daarop terecht komt. Een ander voordeel is dat bij een kubus duidelijk kunt zien op welk vlak hij terecht is gekomen. Daarnaast is de rubics kube een van de bekendste hexaëders (kubus).</OVER>
+    <PERSOON>Dit regelmatige veelvlak is in de klassieke oudheid gevonden door Plato. Plato heeft alle regelmatige veelvlakken gevonden. Daarom noemen we deze regelmatige veelvlakken ook wel de platonische lichamen. </PERSOON>
+    <INFO_OVER_FIGUUR>De kubus heeft zes zijvlakken, acht hoekpunten en 12 ribben. </INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Regelmatig achtvlak</NAAM>
+    <GRIEKSE_NAAM>Octaëder</GRIEKSE_NAAM>
+    <OVER>De octaëder is een van de vijf regelmatige veelvlakken. De veelvlakken hebben de vorm van gelijkzijdige driehoeken. Dit regelmatige veelvlak wordt in sommige spellen ook gebruikt als dobbelsteen, bijvoorbeeld bij stratego. Je kunt dit veelvlak ook zien als twee gelijke piramides met een vierkant grondvlak. Waarvan de grondvlakken tegen elkaar zijn gelijmd. </OVER>
+    <PERSOON>Dit regelmatige veelvlak is in de klassieke oudheid gevonden door Plato. Plato heeft alle regelmatige veelvlakken gevonden. Daarom noemen we deze regelmatige veelvlakken ook wel de platonische lichamen.</PERSOON>
+    <INFO_OVER_FIGUUR>Dit veelvlak heeft zes hoekpunten, twaalf ribben en acht zijvlakken.</INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+Gedaan!
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Regelmatig twaalfvlak</NAAM>
+    <GRIEKSE_NAAM>Dodecaëder</GRIEKSE_NAAM>
+    <OVER>De dodecaëder is een Platonisch lichaam of ook wel een regelmatig veelvlak. Het veelvlak bestaat dan uit regelmatige veelhoeken. Dit betekent dat de dodecaëder uit twaalf regelmatige vijfhoeken bestaat, waardoor dit een regelmatig veelvlak wordt. </OVER>
+    <PERSOON>Pythagoras wist in 520 v.Chr. al van drie van de vijf regelmatige veelvlakken waaronder het bestaan van de Dodecaëder. Terwijl Plato na 427 v.Chr. alle vijf van de regelmatige veelvlakken ontdekte en in verband bracht met de vijf kosmische bouwstenen van de wereld.
+Tijdens opgravingen zijn er dodecaëders gevonden, deze dodecaëders hadden allemaal in het midden van alle vijfhoeken een gat zitten en op de hoekpunten een bolletje. Er is niet duidelijk waarvoor deze dodecaëders werden gebruikt. Vooral omdat ze zijn ontdekt in verschillende maten, hiervan is 4 cm de kleinst gevonden dodecaëder en de grootste 8,5 cm. Deze dodecaëders worden gedateerd in de Romeinse tijd. </PERSOON>
+    <INFO_OVER_FIGUUR>De dodecaëder bestaat uit 12 vlakken in de vorm van vijfhoeken, heeft 20 hoekpunten en 30 ribben. De zijvlakken per hoekpunt zijn 3 en de ribben per zijvlak zijn er 5.</INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+Gedaan!
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Regelmatig twintigvlak</NAAM>
+    <GRIEKSE_NAAM>Icosaëder</GRIEKSE_NAAM>
+    <OVER>De icosaëder is een Platonisch lichaam of ook wel een regelmatig veelvlak. Het veelvlak bestaat dan uit regelmatige veelhoeken. Dit betekent dat de icosaëder uit twintig regelmatige driehoeken bestaat, waardoor dit een regelmatig veelvlak wordt. </OVER>
+    <PERSOON>Pythagoras wist in 520 v.Chr. al van drie van de vijf regelmatige veelvlakken de icosaëder is hier geen één van. Terwijl Plato na 427 v.Chr. alle vijf van de regelmatige veelvlakken ontdekte en in verband bracht met de vijf kosmische bouwstenen van de wereld.</PERSOON>
+    <INFO_OVER_FIGUUR>De icosaëder bestaat uit 20 vlakken in de vorm van driehoeken, heeft 12 hoekpunten en 30 ribben. De zijvlakken per hoekpunt zijn 5 en de ribben per zijvlak zij er 3.</INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+Gedaan!
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Vijfhoekige koepel</NAAM>
+    <GRIEKSE_NAAM>Pentagonal cupola (J5)</GRIEKSE_NAAM>
+    <OVER>De vijfhoekige koepel is J5 op de lijst van Johnson-lichamen en is een prismatoïde.</OVER>
+    <PERSOON>In 1966 werd een lijst gepubliceerd van 92 Johnson-lichamen, dit is exclusief de 5 Platonische lichamen, 13 Archimedische lichamen, de oneindig veel uniforme prisma’s en de oneindig veel uniforme antiprisma’s. Deze lijst werd gepubliceerd door Norman Johnson en gaf deze figuren niet alleen namen, maar ook nummers. Hij vermoedde dat er geen andere waren dan deze 92 meer bewees dit niet. 
+Victor Zalgaller daarentegen bewees in 1969 dat de lijs van Johnson compleet was.
+</PERSOON>
+    <INFO_OVER_FIGUUR>De vijfhoekige koepel bestaat uit 12 vlakken hiervan zijn er 5 driehoeken, 5 vierkanten, 1 vijfhoek en 1 decagon (tienhoek), hij heeft 15 hoekpunten en 30 ribben. De zijvlakken per hoekpunten zijn 3 of 4 zijvlakken en de ribben per zijvlak zijn 3, 4, 5 of 10 ribben.
+</INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+Gedaan!
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Gyrobifastigium</NAAM>
+    <GRIEKSE_NAAM>Gyrobifastigium</GRIEKSE_NAAM>
+    <OVER>De gyrobifastigium is J26 op de lijst van Johnson-lichamen en is geconstrueerd door twee driehoekige prisma’s met hun vierkante zijvlakken 90° gedraaid en op elkaar geplaats.</OVER>
+    <PERSOON>In 1966 werd een lijst gepubliceerd van 92 Johnson-lichamen, dit is exclusief de 5 Platonische lichamen, 13 Archimedische lichamen, de oneindig veel uniforme prisma’s en de oneindig veel uniforme antiprisma’s. Deze lijst werd gepubliceerd door Norman Johnson en gaf deze figuren niet alleen namen, maar ook nummers. Hij vermoedde dat er geen andere waren dan deze 92 meer bewees dit niet. 
+Victor Zalgaller daarentegen bewees in 1969 dat de lijs van Johnson compleet was.</PERSOON>
+    <INFO_OVER_FIGUUR>De gyrobifastigium bestaat uit 8 vlakken hiervan zijn er 4 driehoeken en 4 vierkanten, hij heeft 15 hoekpunten en 25 ribben. De zijvlakken per hoekpunten zijn 3 of 4 zijvlakken en de ribben per zijvlak zijn 3 of 4 ribben.</INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+Gedaan!
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Ruitvormige Triacontaëder</NAAM>
+    <GRIEKSE_NAAM>Rombische triacontaëder</GRIEKSE_NAAM>
+    <OVER>Grieks: Triejánda = dertig en hedra = Zetel; vlak
+    De triacontahedron is een Catalan lichaam. De Catalan lichamen zijn duale veelvlakken van de Archimedische lichamen, waardoor er net al de Archimedische lichamen er ook 13 verschillende Catalan lichamen zijn. De triacontahedron is een duaal veelvlak van de icosidodecaëder.</OVER>
+    <PERSOON>De triacontahedron werd voor het eerste in 1865 beschreven door de Belgische wiskundige Eugène Charles Catalan in zijn werk Mémoire sur la Théorie des Polyèdres.</PERSOON>
+    <INFO_OVER_FIGUUR>De triacontahedron bestaat uit 30 vlakken in de vorm van driehoeken, heeft 32 hoekpunten en 60 ribben. De zijvlakken per hoekpunten zijn 3 of 5 hoekpunten en de ribben per zijvlak zijn 4.</INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+Gedaan!
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Stompe dodecaëder</NAAM>
+    <GRIEKSE_NAAM></GRIEKSE_NAAM>
+    <OVER>De stompe dodecaëder is een veelvlak uit de Achimedes lichamen en is een uniform veelvlak. Dit betekent dat het bestaat uit regelmatige veelhoeken als vlakken.</OVER>
+    <PERSOON>De stompe dodecaëder is ontdekt door Archimedes, de geschriften van Archimedes over de Archimedische lichamen zijn verloren gegaan, maar Johannes Kepler reconstrueerde ze weer rond 1620. Verscheidene wiskundigen herontdekten deze vormen, kepler rondde het werk vervolgens af.</PERSOON>
+    <INFO_OVER_FIGUUR>De stompe dodecaëder bestaat uit 92 vlakken hiervan zijn er 80 driehoeken en 12 vijfhoeken, hij heeft 60 hoekpunten en 150 ribben. De zijvlakken per hoekpunt is 5 en de ribben per zijvlak zijn 3 of 5 ribben.</INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Decagonaal prisma</NAAM>
+    <GRIEKSE_NAAM></GRIEKSE_NAAM>
+    <OVER>Een decagonaal prisma is een prisma met een tienhoekig grondvlak. Van een prisma weten we dat het grondvlak en bovenvlak meestal gelijk zijn. Bij dit veelvlak is dat ook het geval. Dit veelvlak heeft parallellogrammen als zijvlak. Wanneer je de parallellogrammen vervangt door vierkanten wordt het decagonaal prisma een half regelmatig veelvlak. Het wordt dan een decagonale bi piramide.</OVER>
+    <PERSOON>Persoon niet gevonden</PERSOON>
+    <INFO_OVER_FIGUUR>Het decagonaal prisma heeft in totaal twaalf vlakken. Hiervan zijn twee het boven en grondvlak (tienhoek) en tien zijvlakken (parallellogrammen). Het decagonaal prisma heeft twaalf zijdes, 20 hoekpunten en 30 ribben. </INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Kleine sterdodecaëder</NAAM>
+    <GRIEKSE_NAAM></GRIEKSE_NAAM>
+    <OVER>De kleine sterdodecaëder valt in de meetkunde onder de soort Kepler-poinsot-lichamen. Dit veelvlak heeft als basis een regelmatig twaalfvlak, een dodecaëder. Je krijgt dit veelvlak door op de vijfhoekige zijvlakken van het regelmatig twaalfvlak een vijfhoekige piramide te plaatsen. Zo krijg je de kleine sterdodecaëder. Dit veelvlak kan net als alle andere Kepler-poinsot-lichamen gezien worden als een sterveelvlak en als een normaal veelvlak.</OVER>
+    <PERSOON>Persoon niet gevonden</PERSOON>
+    <INFO_OVER_FIGUUR>Als je dit veelvlak ziet als een sterveelvlak zijn de zijvlakken twaalf pentagrammen die elkaar snijden. Bij de meeste veelvlakken kun je de formule van Euler uitvoeren (H-R+Z=2) maar bij dit sterveelvlak kan dit niet. De kleine sterdodecaëder heeft twaalf vlakken in de vorm van pentagrammen, twaalf hoekpunten en 30 ribben. Als we dit veelvlak bekijken als normaal veelvlak heeft dit veelvlak 60 zijvlakken die vind je allemaal bij de punten van de ster. 90 ribben hiervan kun je er 60 vinden aan de zijkanten van de punten van de ster en 30 van het regelmatige twaalfvlak in het midden. Dit veelvlak heeft 32 hoekpunten hiervan kun je er twaalf vinden namelijk de hoekpunten van de ster, en 20 van het twaalfvlak in het midden.</INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Vierkante piramide</NAAM>
+    <GRIEKSE_NAAM>griekse test</GRIEKSE_NAAM>
+    <OVER>Een vierkante piramide is eigenlijk het regelmatige viervlak maar dan met een vierkant als grondvlak. Op dit vierkantig grondvlak staan vier driehoeken, dit zijn de zijvlakken. Wanneer deze gelijkzijdig zijn noemen we dit veelvlak een Johnson lichaam.Het is dan de helft van een regelmatig achtvlak.</OVER>
+    <PERSOON>Het is mogelijk om de vierkante piramide zo te kiezen dat het een zesde deel van de kubus wordt. Wanneer dit het geval is noemen we het geen Johnson lichaam meer. Dit veelvlak komen we vooral in Egypte tegen daar zijn dit de normale piramides. De vierkante piramide heeft vier vlakken (gelijkzijdige driehoeken), en dan nog het grondvlak en dat is een vierkant.</PERSOON>
+    <INFO_OVER_FIGUUR>Dit veelvlak heeft vijf zijdes, vijf hoekpunten en acht ribben. </INFO_OVER_FIGUUR>
+</veelvlak-data>
+
+

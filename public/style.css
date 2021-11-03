@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&family=Pacifico&display=swap');
+
+body {
+    background-color: #ffba07;
+    margin:0;
+}
+
+#site-title {
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 7em;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 0.5em;
+    line-height: 1em;
+}
+
+#subtitle-discription {
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.5vw;
+    padding: 0;
+    margin: 0;
+}
+
+.title-container-rel {
+    position: relative;
+    height: 100%;
+    background-color: #ffa701;
+}
+
+.title-container {
+    padding: 3em;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.title-container-rel > img {
+   height: 100%;
+   float:right;
+   padding-right:3em;
+   
+   -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+.veelvlak-chooser {
+    width:100%;
+}
+
+#veelvlak-nav {
+    margin:0 auto;
+    padding:0;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+#veelvlak-nav > li {
+    display:inline-block;
+    margin:0;
+    width:20vw;
+    padding:1em;
+    border-radius: 0.5em;
+    transition: background-color ease-in-out 0.3s;
+}
+
+#veelvlak-nav > li > a {
+    text-decoration: none;
+}
+
+#veelvlak-nav > li:hover {
+    background:white;
+}
+
+#veelvlak-nav > li:hover > a > p{
+    color:black;
+}
+
+#veelvlak-nav > li > a > p {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    transition: color ease-in-out 0.3s;
+
+}
+
+#veelvlak-nav > li > a > img {
+    width:100%;
+}
+
+.informatie-panel {
+    margin:  3em 12em;
+}
+
+.veelvlak-koptitle {
+    font-family: 'Inconsolata', monospace;
+    font-size: 3em;
+    color: white;
+}
+
+.veelvlak-uitleg {
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.5em;
+}
+
+.left-align {
+    text-align: left;
+    float: left;
+}
+
+.right-align {
+    text-align: right;
+    float:right;
+}
+
+.veelvlak-uitleg-container {
+    width:55%;
+}
+
+#uitslag-print {
+    width:4em;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}

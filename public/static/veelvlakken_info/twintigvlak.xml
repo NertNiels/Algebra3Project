@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Regelmatig twintigvlak</NAAM>
+    <GRIEKSE_NAAM>Icosaëder</GRIEKSE_NAAM>
+    <OVER>De icosaëder is een Platonisch lichaam of ook wel een regelmatig veelvlak. Het veelvlak bestaat dan uit regelmatige veelhoeken. Dit betekent dat de icosaëder uit twintig regelmatige driehoeken bestaat, waardoor dit een regelmatig veelvlak wordt. </OVER>
+    <PERSOON>Pythagoras wist in 520 v.Chr. al van drie van de vijf regelmatige veelvlakken de icosaëder is hier geen één van. Terwijl Plato na 427 v.Chr. alle vijf van de regelmatige veelvlakken ontdekte en in verband bracht met de vijf kosmische bouwstenen van de wereld.</PERSOON>
+    <INFO_OVER_FIGUUR>De icosaëder bestaat uit 20 vlakken in de vorm van driehoeken, heeft 12 hoekpunten en 30 ribben. De zijvlakken per hoekpunt zijn 5 en de ribben per zijvlak zij er 3.</INFO_OVER_FIGUUR>
+    <vvname>twintigvlak</vvname>
+</veelvlak-data>

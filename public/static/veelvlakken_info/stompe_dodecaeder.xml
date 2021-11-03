@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Stompe dodecaëder</NAAM>
+    <GRIEKSE_NAAM></GRIEKSE_NAAM>
+    <OVER>De stompe dodecaëder is een veelvlak uit de Achimedes lichamen en is een uniform veelvlak. Dit betekent dat het bestaat uit regelmatige veelhoeken als vlakken.</OVER>
+    <PERSOON>De stompe dodecaëder is ontdekt door Archimedes, de geschriften van Archimedes over de Archimedische lichamen zijn verloren gegaan, maar Johannes Kepler reconstrueerde ze weer rond 1620. Verscheidene wiskundigen herontdekten deze vormen, kepler rondde het werk vervolgens af.</PERSOON>
+    <INFO_OVER_FIGUUR>De stompe dodecaëder bestaat uit 92 vlakken hiervan zijn er 80 driehoeken en 12 vijfhoeken, hij heeft 60 hoekpunten en 150 ribben. De zijvlakken per hoekpunt is 5 en de ribben per zijvlak zijn 3 of 5 ribben.</INFO_OVER_FIGUUR>
+    <vvname>stompe_dodecaeder</vvname>
+</veelvlak-data>

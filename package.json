@@ -1,0 +1,22 @@
+{
+  "name": "website-projectweek-alg3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NertNiels/Algebra3Project.git"
+  },
+  "author": "Niels Smit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NertNiels/Algebra3Project/issues"
+  },
+  "homepage": "https://github.com/NertNiels/Algebra3Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

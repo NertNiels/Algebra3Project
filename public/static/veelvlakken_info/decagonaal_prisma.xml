@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<veelvlak-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <NAAM>Decagonaal prisma</NAAM>
+    <GRIEKSE_NAAM></GRIEKSE_NAAM>
+    <OVER>Een decagonaal prisma is een prisma met een tienhoekig grondvlak. Van een prisma weten we dat het grondvlak en bovenvlak meestal gelijk zijn. Bij dit veelvlak is dat ook het geval. Dit veelvlak heeft parallellogrammen als zijvlak. Wanneer je de parallellogrammen vervangt door vierkanten wordt het decagonaal prisma een half regelmatig veelvlak. Het wordt dan een decagonale bi piramide.</OVER>
+    <PERSOON>Persoon niet gevonden</PERSOON>
+    <INFO_OVER_FIGUUR>Het decagonaal prisma heeft in totaal twaalf vlakken. Hiervan zijn twee het boven en grondvlak (tienhoek) en tien zijvlakken (parallellogrammen). Het decagonaal prisma heeft twaalf zijdes, 20 hoekpunten en 30 ribben. </INFO_OVER_FIGUUR>
+    <vvname>decagonaal_prisma</vvname>
+</veelvlak-data>
