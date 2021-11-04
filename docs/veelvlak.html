@@ -11,8 +11,10 @@
     <div class="title-container-rel">
         <div class="title-container">
             <p id="site-title">Veelvlak</p>
+            <p id="site-subtitle">Een echt avontuur</p>
+
         </div>
-        <img id="title_img">
+        <img id="title-img">
     </div>
     <div class="informatie-panel">
         <div class="veelvlak-uitleg-container left-align">
@@ -28,10 +30,14 @@
             <p class="veelvlak-uitleg" id="info-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. In nihil porro animi facere, iste deserunt nostrum magnam. Labore est reprehenderit nam. Obcaecati ab molestiae cumque nemo, facere veritatis totam ex?</p>
         </div>
         <div class="veelvlak-uitleg-container right-align">
-            <p class="veelvlak-koptitle">Uitprinten</p>
+            <p class="veelvlak-koptitle">Uitdraaien of printen</p>
             <p class="veelvlak-uitleg">Wil je dit veelvlak zelf maken? Dan hebben we hier een uitslag voor je opgezocht! Deze kan je downloaden, uitprinten en daarna in elkaar knutselen.</p>
-            <a href="/print"><img id="uitslag-print" src="/static/print.png" alt="Klik hier om het bestand te downloaden"></a>
+            <a href="/print" id="print-uitslag-link"><img id="uitslag-print" src="/static/print.png" alt="Klik hier om het bestand te downloaden"></a>
         </div>
     </div>
+
+    <script>
+        parseDataToPage(getParameterByName("vvname"));
+    </script>
 </body>
 </html>
